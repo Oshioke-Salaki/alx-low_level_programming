@@ -1,10 +1,9 @@
 #include <stdio.h>
 
 
-
 /**
- * main
- * return 0
+ * main - prints
+ * Return: 0
  */
 
 int main(void)
