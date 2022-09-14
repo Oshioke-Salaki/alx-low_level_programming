@@ -2,7 +2,7 @@
 
 /**
  * main - Entry point
- * cool 
+ *
  * Return: 0;
  */
 int main(void)
