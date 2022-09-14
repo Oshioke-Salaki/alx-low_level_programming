@@ -1,11 +1,12 @@
 #include "main.h"
 
 /**
- * main 
+ * main - Entry point
+ * cool 
  * Return: 0;
  */
-
 int main(void)
+
 {
 	char text[9] = "_putchar";
 	int i = 0;
@@ -14,9 +15,7 @@ int main(void)
 	{
 		_putchar(text[i]);
 	}
-
 	_putchar('\n');
 
 	return (0);
-
 }
