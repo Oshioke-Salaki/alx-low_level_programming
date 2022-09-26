@@ -6,7 +6,7 @@
  * @accept: string containing the list of characters to match in s
  *
  * Return: the number of bytes in the initial segment
- * od s 
+ * of s which consists only of bytes from accept 
  */
 unsigned int _strspn(char *s, char *accept)
 {
